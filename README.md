@@ -1,10 +1,9 @@
-# retsgenetisk-afdeling
-
 # For at starte programmet
-1. I consumer folderen, brug "npm i"
-2. I consumer folderen, brug "npm start"
-3. I WebService folderen brug "dotnet run"
+1. In the consumer folder, use "npm i"
+2. In the consumer folder, use "npm start"
+3. In the WebService folde, use "dotnet run"
 
+# Assignment Description (in danish)
 ”Lav 2 små projekter/applikationer f.eks. i en samlet Visual Studio solution (eller bare 2 separate applikationer i hver deres folder).
 
 Det ene projekt/applikation skal bestå af en webservice som returnerer data i JSON format.

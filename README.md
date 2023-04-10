@@ -1,7 +1,6 @@
-# For at starte programmet
-1. In the consumer folder, use "npm i"
-2. In the consumer folder, use "npm start"
-3. In the WebService folde, use "dotnet run"
+# To start the program
+1. In the consumer folder, use "npm i" and then "npm start"
+2. In the WebService folde, use "dotnet run"
 
 # Assignment Description (in danish)
 ”Lav 2 små projekter/applikationer f.eks. i en samlet Visual Studio solution (eller bare 2 separate applikationer i hver deres folder).
